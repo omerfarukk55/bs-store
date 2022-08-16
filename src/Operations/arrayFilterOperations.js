@@ -11,4 +11,4 @@ for (const item of arr) {
 const newfilterarry =arr.filter(num=>num!==input);
 console.log(arr)
 console.log(newArry)
-console.log(newfilterarry)
+console.log(newfilterarry)g
